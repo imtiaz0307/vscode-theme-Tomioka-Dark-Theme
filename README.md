@@ -1,16 +1,25 @@
-# tomioka-dark-theme README
+Tomioka Theme for Visual Studio Code
 
-## Working with Markdown
+A dark theme inspired by the colors of Tomioka Giyuu from Demon Slayer.
+Features
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+    Dark background
+    Vibrant syntax colors
+    Color scheme inspired by Tomioka Giyuu
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Installation
 
-## For more information
+    Open Visual Studio Code
+    Go to Extensions (Ctrl + Shift + X)
+    Search for Tomioka Theme
+    Click install and then enable the theme.
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Usage
 
-**Enjoy!**
+To activate the theme, go to File > Preferences > Color Theme and select Tomioka Theme.
+Screenshots
+
+TBA
+Contributing
+
+Please open an issue or a pull request if you would like to contribute to the theme.
