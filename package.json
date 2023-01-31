@@ -4,6 +4,19 @@
   "description": "Tomioka Dark Theme",
   "version": "0.0.1",
   "publisher": "Muhammad Imtiaz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imtiaz0307/vscode-theme-Tomioka-Dark-Theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "tomioka theme",
+    "demon slayer",
+    "demon slayer theme",
+    "best theme",
+    "Muhammad Imtiaz Theme"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
